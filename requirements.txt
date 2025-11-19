@@ -1,0 +1,7 @@
+darts
+pandas
+numpy
+matplotlib
+statsforecast
+prophet==1.2.1
+cmdstanpy==1.2.5
