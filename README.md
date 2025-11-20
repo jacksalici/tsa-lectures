@@ -14,5 +14,5 @@
 
 ### Miscellaneous 
 
-- `misc/ma.ipynb`:  Interactive plots of Moving Average Smoothing effect on a random time series
-- `misc/ema.ipynb`: Interactive plots of Exponential Moving Average on an impulse signal
+- `misc/ma.ipynb`:  Interactive plots of **Moving Average** Smoothing effect on a random time series ([*open on **Colab***](https://colab.research.google.com/github/jacksalici/tsa-lectures/blob/main/misc/ma.ipynb))
+- `misc/ema.ipynb`: Interactive plots of **Exponential Moving Average** on an impulse signal ([*open on **Colab***](https://colab.research.google.com/github/jacksalici/tsa-lectures/blob/main/misc/ema.ipynb))
