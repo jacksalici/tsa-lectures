@@ -2,7 +2,7 @@
 
 > The repository contains some materials related to **time series analysis**. The `handbook.ipynb` notebook includes some snippets to showcase the [`darts`](https://unit8co.github.io/darts/index.html) library applied to time series forecasting and anomaly detection tasks.
 
-## Handbook Contents
+## Main Handbook Contents
 
 - Overview
 - Setup & Data Preparation
@@ -12,5 +12,7 @@
 
 👉 [*Open the notebook on **Colab***.](https://colab.research.google.com/github/jacksalici/tsa-lectures/blob/main/handbook.ipynb)
 
-## License
-MIT License © GS
+### Miscellaneous 
+
+- `misc/ma.ipynb`:  Interactive plots of Moving Average Smoothing effect on a random time series
+- `misc/ema.ipynb`: Interactive plots of Exponential Moving Average on an impulse signal
