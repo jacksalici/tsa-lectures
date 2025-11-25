@@ -1,10 +1,8 @@
-"""Example: Use Darts' `gridsearch` classmethod for simple (non-deep) models.
+"""
+Example: Use Darts' `gridsearch` classmethod for simple (non-deep) models.
 
 This demonstrates using the `ForecastingModel.gridsearch` classmethod
 for `ExponentialSmoothing` and `ARIMA` on the `AirPassengers` dataset.
-
-Run:
-    python examples/forecast_gridsearch.py
 """
 
 from typing import Optional

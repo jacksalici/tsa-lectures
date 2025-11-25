@@ -1,3 +1,10 @@
+"""
+Example of computing anomaly scores using the error between actual and forecasted values
+from a forecasting model.
+This demonstrates the use of Darts' `ForecastingAnomalyModel` with different scorers
+and visualizing the results.
+"""
+
 from darts import TimeSeries
 from darts.datasets import WeatherDataset
 from darts.models import SKLearnModel
